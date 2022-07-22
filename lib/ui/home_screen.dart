@@ -68,6 +68,7 @@ class CategoryGrid extends StatelessWidget {
               ),
             ],
           ),
+
           Padding(
             padding: const EdgeInsets.only(top: 0.0, bottom: 10.0, left: 30.0, right: 30.0),
             child: GridView.builder(
